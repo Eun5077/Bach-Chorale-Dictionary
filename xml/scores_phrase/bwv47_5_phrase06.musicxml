@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>94. Warum betrübst du dich, mein Herz</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>MuseScore 2.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P3a11ccc7c538428e46ffa1df51fcfa36">
+      <part-name>Soprano</part-name>
+    </score-part>
+    <score-part id="Pf3a0fa1f88bd8d43635e7d7ccded8232">
+      <part-name>Alto</part-name>
+    </score-part>
+    <score-part id="P9ed72e7dcc322cd15a375fba4b652286">
+      <part-name>Tenor</part-name>
+    </score-part>
+    <score-part id="P3733e4295ef7a7e65a4bd167c933c03e">
+      <part-name>Bass</part-name>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P3a11ccc7c538428e46ffa1df51fcfa36">
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>minor</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="Pf3a0fa1f88bd8d43635e7d7ccded8232">
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P9ed72e7dcc322cd15a375fba4b652286">
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P3733e4295ef7a7e65a4bd167c933c03e">
+    <!--========================= Measure 10 =========================-->
+    <measure number="10">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

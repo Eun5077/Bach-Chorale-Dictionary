@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>150. Welt, ade! ich bin dein müde</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>MuseScore 2.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="Pfdb4854345f3edac2688e4f7772ebeee">
+      <part-name>Soprano 1</part-name>
+    </score-part>
+    <score-part id="P6ac606dbfc085037b1aac3dc03d515d2">
+      <part-name>Soprano 2</part-name>
+    </score-part>
+    <score-part id="P488dd57fa42a09d8c443ba8fb4bfcbda">
+      <part-name>Alto</part-name>
+    </score-part>
+    <score-part id="P3538941bb315b9c85fc1fa03e5699f58">
+      <part-name>Tenor</part-name>
+    </score-part>
+    <score-part id="Pd6453c4efab048b8e3ce7a83c8960b38">
+      <part-name>Bass</part-name>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pfdb4854345f3edac2688e4f7772ebeee">
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note default-x="33" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>down</stem>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Krieg</text>
+        </lyric>
+      </note>
+      <note default-x="147.92" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>und</text>
+        </lyric>
+      </note>
+      <note default-x="195.57" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+        <lyric name="2" number="2">
+          <syllabic>single</syllabic>
+          <text>Streit,</text>
+        </lyric>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P6ac606dbfc085037b1aac3dc03d515d2">
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note default-x="33" default-y="-195">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="103.72" default-y="-200">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.57" default-y="-195">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P488dd57fa42a09d8c443ba8fb4bfcbda">
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="33" default-y="-385">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="147.92" default-y="-385">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.57" default-y="-380">
+        <pitch>
+          <step>E</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P3538941bb315b9c85fc1fa03e5699f58">
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="33" default-y="-520">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="103.72" default-y="-555">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.57" default-y="-535">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 5 ===========================-->
+  <part id="Pd6453c4efab048b8e3ce7a83c8960b38">
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="33" default-y="-710">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="147.92" default-y="-710">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.57" default-y="-715">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

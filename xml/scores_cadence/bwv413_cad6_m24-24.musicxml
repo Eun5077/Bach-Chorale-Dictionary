@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>220. Sollt’ ich meinem Gott nicht singen</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>MuseScore 2.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="Pb87cdec3238c4e89acd04e69bb10be29">
+      <part-name>Soprano</part-name>
+    </score-part>
+    <score-part id="P7b6f2de29aa2c4c8ab9282a705dbcf10">
+      <part-name>Alto</part-name>
+    </score-part>
+    <score-part id="P0219b197d59629aa27b5a2772f69cef2">
+      <part-name>Tenor</part-name>
+    </score-part>
+    <score-part id="Pa3908753d3b0933afb59ae1cab20d337">
+      <part-name>Bass</part-name>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pb87cdec3238c4e89acd04e69bb10be29">
+    <!--========================= Measure 24 =========================-->
+    <measure number="24">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note default-x="12" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+        <lyric name="2" number="2">
+          <syllabic>begin</syllabic>
+          <text>ü</text>
+        </lyric>
+      </note>
+      <note default-x="71.11" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+        <lyric name="2" number="2">
+          <syllabic>end</syllabic>
+          <text>ben.</text>
+        </lyric>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P7b6f2de29aa2c4c8ab9282a705dbcf10">
+    <!--========================= Measure 24 =========================-->
+    <measure number="24">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note default-x="12" default-y="-205">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="71.11" default-y="-205">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P0219b197d59629aa27b5a2772f69cef2">
+    <!--========================= Measure 24 =========================-->
+    <measure number="24">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="12" default-y="-330">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="71.11" default-y="-330">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="Pa3908753d3b0933afb59ae1cab20d337">
+    <!--========================= Measure 24 =========================-->
+    <measure number="24">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="12" default-y="-555">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="71.11" default-y="-555">
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="upright" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

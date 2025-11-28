@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>11. Jesu, nun sei gepreiset</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>MuseScore 2.1.0</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="Pc94631c49eead31c0d1bbc5e12107bc0">
+      <part-name>Trumpet 1</part-name>
+    </score-part>
+    <score-part id="P4afae151754b87a4523f186a1e0b9dfb">
+      <part-name>Trumpet 2</part-name>
+    </score-part>
+    <score-part id="P909915aa5b185e2bbcc8bd293825ce67">
+      <part-name>Trumpet 3</part-name>
+    </score-part>
+    <score-part id="P633e81f3a0791dbecb404376d998a5b9">
+      <part-name>Timpani</part-name>
+    </score-part>
+    <score-part id="P6a4c94874925c0fc1d390b47d1a7a771">
+      <part-name>Oboe 3</part-name>
+    </score-part>
+    <score-part id="Pe626e38ec510e2c8a50c0098b7fa8a2c">
+      <part-name>Soprano Oboe 1 Violin1</part-name>
+    </score-part>
+    <score-part id="P755e5dd2716e82c7035bb349f63396ab">
+      <part-name>Alto Oboe 2 Viloin 2</part-name>
+    </score-part>
+    <score-part id="P5576012fe91864642884184b8c6b7d3c">
+      <part-name>Tenor Viola</part-name>
+    </score-part>
+    <score-part id="P1452cced25ac3fa50fc0a3bd2a64deab">
+      <part-name>Bass Continuo</part-name>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pc94631c49eead31c0d1bbc5e12107bc0">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P4afae151754b87a4523f186a1e0b9dfb">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P909915aa5b185e2bbcc8bd293825ce67">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P633e81f3a0791dbecb404376d998a5b9">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 5 ===========================-->
+  <part id="P6a4c94874925c0fc1d390b47d1a7a771">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 6 ===========================-->
+  <part id="Pe626e38ec510e2c8a50c0098b7fa8a2c">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 7 ===========================-->
+  <part id="P755e5dd2716e82c7035bb349f63396ab">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 8 ===========================-->
+  <part id="P5576012fe91864642884184b8c6b7d3c">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 9 ===========================-->
+  <part id="P1452cced25ac3fa50fc0a3bd2a64deab">
+    <!--========================= Measure 35 =========================-->
+    <measure number="35">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <barline location="left">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>40320</duration>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

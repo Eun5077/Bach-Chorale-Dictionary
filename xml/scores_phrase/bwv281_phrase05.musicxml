@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-number>1</movement-number>
+  <movement-title>6. Christus, der ist mein Leben</movement-title>
+  <identification>
+    <creator type="composer" />
+    <creator type="electronicEncoder">S. Rasmussen</creator>
+    <creator type="electronicEditor">W.B. Hewlett</creator>
+    <rights>Copyright 1994, Center for Computer Assisted Research in the Humanities</rights>
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+    </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="humdrum:OPR">Four-part Chorales</miscellaneous-field>
+      <miscellaneous-field name="humdrum:ONM" />
+      <miscellaneous-field name="humdrum:CDT">1685/3//-1750/7/28/</miscellaneous-field>
+      <miscellaneous-field name="humdrum:OCY">Deutschland</miscellaneous-field>
+      <miscellaneous-field name="RWG">Key is interpreted using the Humdrum key tool.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:SCA">BWV 281</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YOR">Bach Gesellschaft Edition</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AGN">choral</miscellaneous-field>
+      <miscellaneous-field name="AFT">stage2</miscellaneous-field>
+      <miscellaneous-field name="humdrum:END">1994/05/11</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AST">baroque</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Rights to all derivative electronic formats reserved.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Refer to licensing agreement for further details.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEN">United States of America</miscellaneous-field>
+      <miscellaneous-field name="KEY">2776303321</miscellaneous-field>
+      <miscellaneous-field name="humdrum:EMD">Converted from MuseData to Humdrum Nov 5, 1999, by Bret Aarden using muse2kern.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:VTS">2731986497</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="Pbce77e84d6aeea52bb4e8d723a4ad60e">
+      <part-name />
+    </score-part>
+    <score-part id="P32fea9f0263724f69f79411d9ef3dfe5">
+      <part-name />
+    </score-part>
+    <score-part id="P440bb630810f6981f87b3212b0a59f46">
+      <part-name />
+    </score-part>
+    <score-part id="P329e8f7d2d440ba59863b1923b22fa88">
+      <part-name />
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pbce77e84d6aeea52bb4e8d723a4ad60e">
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P32fea9f0263724f69f79411d9ef3dfe5">
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P440bb630810f6981f87b3212b0a59f46">
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P329e8f7d2d440ba59863b1923b22fa88">
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+  </part>
+</score-partwise>

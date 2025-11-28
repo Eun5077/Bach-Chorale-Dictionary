@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="3.1">
+  <work><work-title>197. Christ ist erstanden</work-title></work><movement-title>197. Christ ist erstanden [Ear Blank]</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-24</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>MuseScore 2.1.0</software>
+      <supports attribute="new-system" element="print" type="yes" value="yes" />
+      <supports attribute="new-page" element="print" type="yes" value="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.4</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1856.25</page-height>
+      <page-width>1312.5</page-width>
+      <page-margins>
+        <left-margin>31.25</left-margin>
+        <right-margin>31.25</right-margin>
+        <top-margin>62.5</top-margin>
+        <bottom-margin>125</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <word-font font-family="Times New Roman" font-size="8" />
+    <lyric-font font-family="Times New Roman" font-size="12" />
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="1250" default-y="1689" font-family="Helvetica" font-size="8" justify="right" valign="bottom" xml:space="preserve" />
+  </credit>
+  <credit page="1">
+    <credit-words default-x="656" default-y="1793" font-family="Helvetica" font-size="12" justify="center" valign="top" />
+  </credit>
+  <part-list>
+    <part-group number="1" type="start">
+      <group-symbol>bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P1">
+      <part-name>Soprano</part-name>
+      <part-abbreviation>S.</part-abbreviation>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Alto</part-name>
+      <part-abbreviation>A.</part-abbreviation>
+    </score-part>
+    <score-part id="P3">
+      <part-name>Tenor</part-name>
+      <part-abbreviation>T.</part-abbreviation>
+    </score-part>
+    <score-part id="P4">
+      <part-name>Bass</part-name>
+      <part-abbreviation>B.</part-abbreviation>
+    </score-part>
+    <part-group number="1" type="stop" />
+  </part-list>
+  
+  <part id="P1">
+    
+    <measure number="0" width="166.81">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>67.9</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>199</top-system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1" width="307.62">
+      </measure>
+    
+    <measure number="2" width="246.96">
+      </measure>
+    
+    <measure number="3" width="286.17">
+      </measure>
+    
+    <measure number="4" width="174.53">
+      </measure>
+    
+    <measure number="5" width="352.1">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>100</system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="6" width="292.5">
+      </measure>
+    
+    <measure number="7" width="304.56">
+      </measure>
+    
+    <measure number="8" width="269.35">
+      </measure>
+    
+    <measure number="9" width="274.79">
+      <print new-page="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>140</top-system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="10" width="178.43">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="11" width="258.86">
+      </measure>
+    
+    <measure number="12" width="227.2">
+      </measure>
+    
+    <measure number="13" width="279.23">
+      </measure>
+    
+    <measure number="14" width="316.33">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>100</system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="15" width="304.09">
+      </measure>
+    
+    <measure number="16" width="287.95">
+      </measure>
+    
+    <measure number="17" width="310.14">
+      </measure>
+    
+    <measure number="18" width="310.22">
+      <print new-page="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>140</top-system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="19" width="325.29">
+      </measure>
+    
+    <measure number="20" width="222.21">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="21" width="77.29">
+      </measure>
+    
+    <measure number="22" width="283.51">
+      </measure>
+    
+    <measure number="23" width="291.59">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>100</system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="24" width="335.18">
+      </measure>
+    
+    <measure number="25" width="341.14">
+      </measure>
+    
+    <measure number="26" width="250.61">
+      </measure>
+    
+    <measure number="26a" width="142.98">
+      <print new-page="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>31.49</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>140</top-system-distance>
+        </system-layout>
+      </print>
+      </measure>
+    
+    <measure number="27" width="308.99">
+      </measure>
+    
+    <measure number="28" width="242.97">
+      </measure>
+    
+    <measure number="29" width="299.76">
+      </measure>
+    
+    <measure number="30" width="223.82">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P2">
+    
+    <measure number="0" width="166.81">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="1" width="307.62">
+      </measure>
+    
+    <measure number="2" width="246.96">
+      </measure>
+    
+    <measure number="3" width="286.17">
+      </measure>
+    
+    <measure number="4" width="174.53">
+      </measure>
+    
+    <measure number="5" width="352.1">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="6" width="292.5">
+      </measure>
+    
+    <measure number="7" width="304.56">
+      </measure>
+    
+    <measure number="8" width="269.35">
+      </measure>
+    
+    <measure number="9" width="274.79">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="10" width="178.43">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="11" width="258.86">
+      </measure>
+    
+    <measure number="12" width="227.2">
+      </measure>
+    
+    <measure number="13" width="279.23">
+      </measure>
+    
+    <measure number="14" width="316.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="15" width="304.09">
+      </measure>
+    
+    <measure number="16" width="287.95">
+      </measure>
+    
+    <measure number="17" width="310.14">
+      </measure>
+    
+    <measure number="18" width="310.22">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="19" width="325.29">
+      </measure>
+    
+    <measure number="20" width="222.21">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="21" width="77.29">
+      </measure>
+    
+    <measure number="22" width="283.51">
+      </measure>
+    
+    <measure number="23" width="291.59">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="24" width="335.18">
+      </measure>
+    
+    <measure number="25" width="341.14">
+      </measure>
+    
+    <measure number="26" width="250.61">
+      </measure>
+    
+    <measure number="26a" width="142.98">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="27" width="308.99">
+      </measure>
+    
+    <measure number="28" width="242.97">
+      </measure>
+    
+    <measure number="29" width="299.76">
+      </measure>
+    
+    <measure number="30" width="223.82">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P3">
+    
+    <measure number="0" width="166.81">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="1" width="307.62">
+      </measure>
+    
+    <measure number="2" width="246.96">
+      </measure>
+    
+    <measure number="3" width="286.17">
+      </measure>
+    
+    <measure number="4" width="174.53">
+      </measure>
+    
+    <measure number="5" width="352.1">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="6" width="292.5">
+      </measure>
+    
+    <measure number="7" width="304.56">
+      </measure>
+    
+    <measure number="8" width="269.35">
+      </measure>
+    
+    <measure number="9" width="274.79">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="10" width="178.43">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="11" width="258.86">
+      </measure>
+    
+    <measure number="12" width="227.2">
+      </measure>
+    
+    <measure number="13" width="279.23">
+      </measure>
+    
+    <measure number="14" width="316.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="15" width="304.09">
+      </measure>
+    
+    <measure number="16" width="287.95">
+      </measure>
+    
+    <measure number="17" width="310.14">
+      </measure>
+    
+    <measure number="18" width="310.22">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="19" width="325.29">
+      </measure>
+    
+    <measure number="20" width="222.21">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="21" width="77.29">
+      </measure>
+    
+    <measure number="22" width="283.51">
+      </measure>
+    
+    <measure number="23" width="291.59">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="24" width="335.18">
+      </measure>
+    
+    <measure number="25" width="341.14">
+      </measure>
+    
+    <measure number="26" width="250.61">
+      </measure>
+    
+    <measure number="26a" width="142.98">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="27" width="308.99">
+      </measure>
+    
+    <measure number="28" width="242.97">
+      </measure>
+    
+    <measure number="29" width="299.76">
+      </measure>
+    
+    <measure number="30" width="223.82">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P4">
+    
+    <measure number="0" width="166.81">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="1" width="307.62">
+      </measure>
+    
+    <measure number="2" width="246.96">
+      </measure>
+    
+    <measure number="3" width="286.17">
+      </measure>
+    
+    <measure number="4" width="174.53">
+      </measure>
+    
+    <measure number="5" width="352.1">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="6" width="292.5">
+      </measure>
+    
+    <measure number="7" width="304.56">
+      </measure>
+    
+    <measure number="8" width="269.35">
+      </measure>
+    
+    <measure number="9" width="274.79">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="10" width="178.43">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="11" width="258.86">
+      </measure>
+    
+    <measure number="12" width="227.2">
+      </measure>
+    
+    <measure number="13" width="279.23">
+      </measure>
+    
+    <measure number="14" width="316.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="15" width="304.09">
+      </measure>
+    
+    <measure number="16" width="287.95">
+      </measure>
+    
+    <measure number="17" width="310.14">
+      </measure>
+    
+    <measure number="18" width="310.22">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="19" width="325.29">
+      </measure>
+    
+    <measure number="20" width="222.21">
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    
+    <measure number="21" width="77.29">
+      </measure>
+    
+    <measure number="22" width="283.51">
+      </measure>
+    
+    <measure number="23" width="291.59">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="24" width="335.18">
+      </measure>
+    
+    <measure number="25" width="341.14">
+      </measure>
+    
+    <measure number="26" width="250.61">
+      </measure>
+    
+    <measure number="26a" width="142.98">
+      <print new-page="yes">
+        <staff-layout number="1">
+          <staff-distance>130</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <staff-details print-object="yes" />
+      </attributes>
+      </measure>
+    
+    <measure number="27" width="308.99">
+      </measure>
+    
+    <measure number="28" width="242.97">
+      </measure>
+    
+    <measure number="29" width="299.76">
+      </measure>
+    
+    <measure number="30" width="223.82">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

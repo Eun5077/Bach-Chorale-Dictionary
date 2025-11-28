@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-number>1</movement-number>
+  <movement-title>15. Christ lag in Todesbanden</movement-title>
+  <identification>
+    <creator type="composer" />
+    <creator type="electronicEncoder">S. Rasmussen</creator>
+    <creator type="electronicEditor">W.B. Hewlett</creator>
+    <rights>Copyright 1994, Center for Computer Assisted Research in the Humanities</rights>
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+    </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="humdrum:OPR">Four-part Chorales</miscellaneous-field>
+      <miscellaneous-field name="humdrum:ONM" />
+      <miscellaneous-field name="humdrum:CDT">1685/3//-1750/7/28/</miscellaneous-field>
+      <miscellaneous-field name="humdrum:OCY">Deutschland</miscellaneous-field>
+      <miscellaneous-field name="RWG">Key is interpreted using the Humdrum key tool.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:SCA">BWV 277</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YOR">Bach Gesellschaft Edition</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AGN">choral</miscellaneous-field>
+      <miscellaneous-field name="AFT">stage2</miscellaneous-field>
+      <miscellaneous-field name="humdrum:END">1994/05/11</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AST">baroque</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Rights to all derivative electronic formats reserved.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Refer to licensing agreement for further details.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEN">United States of America</miscellaneous-field>
+      <miscellaneous-field name="KEY">3551684838</miscellaneous-field>
+      <miscellaneous-field name="humdrum:EMD">Converted from MuseData to Humdrum Nov 5, 1999, by Bret Aarden using muse2kern.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:VTS">2476146699</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="Pe10dcc10418d4ed73e6b509d38b234e5">
+      <part-name />
+    </score-part>
+    <score-part id="Pda48f745c33a84cdd988e833df26a0e0">
+      <part-name />
+    </score-part>
+    <score-part id="Pc7665fa825981766eaeebb0f40cdd78a">
+      <part-name />
+    </score-part>
+    <score-part id="P619c76209ee9dd09253929dd9c6da35f">
+      <part-name />
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="Pe10dcc10418d4ed73e6b509d38b234e5">
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="Pda48f745c33a84cdd988e833df26a0e0">
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="Pc7665fa825981766eaeebb0f40cdd78a">
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="start" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P619c76209ee9dd09253929dd9c6da35f">
+    <!--========================= Measure 11 =========================-->
+    <measure number="11">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 12 =========================-->
+    <measure number="12">
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

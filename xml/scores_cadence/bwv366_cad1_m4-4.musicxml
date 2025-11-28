@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-number>1</movement-number>
+  <movement-title>161. Ihr Gestirn’, ihr hohlen Lüfte</movement-title>
+  <identification>
+    <creator type="composer" />
+    <creator type="electronicEncoder">S. Rasmussen</creator>
+    <creator type="electronicEditor">W.B. Hewlett</creator>
+    <rights>Copyright 1994, Center for Computer Assisted Research in the Humanities</rights>
+    <encoding>
+      <encoding-date>2025-11-28</encoding-date>
+      <software>music21 v.8.3.0</software>
+    </encoding>
+    <miscellaneous>
+      <miscellaneous-field name="humdrum:OPR">Four-part Chorales</miscellaneous-field>
+      <miscellaneous-field name="humdrum:ONM" />
+      <miscellaneous-field name="humdrum:CDT">1685/3//-1750/7/28/</miscellaneous-field>
+      <miscellaneous-field name="humdrum:OCY">Deutschland</miscellaneous-field>
+      <miscellaneous-field name="RWG">Key is interpreted using the Humdrum key tool.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:SCA">BWV 366</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YOR">Bach Gesellschaft Edition</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AGN">choral</miscellaneous-field>
+      <miscellaneous-field name="AFT">stage2</miscellaneous-field>
+      <miscellaneous-field name="humdrum:END">1994/07/13</miscellaneous-field>
+      <miscellaneous-field name="humdrum:AST">baroque</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Rights to all derivative electronic formats reserved.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEM">Refer to licensing agreement for further details.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:YEN">United States of America</miscellaneous-field>
+      <miscellaneous-field name="KEY">875436670</miscellaneous-field>
+      <miscellaneous-field name="humdrum:EMD">Converted from MuseData to Humdrum Nov 5, 1999, by Bret Aarden using muse2kern.</miscellaneous-field>
+      <miscellaneous-field name="humdrum:VTS">4096116632</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P2b239e460d013627e2797376621b319e">
+      <part-name />
+    </score-part>
+    <score-part id="Pca5bf82d99c183ce8f0fbc9ece3aaa2d">
+      <part-name />
+    </score-part>
+    <score-part id="P3007bc0c090eaf97ecc2830f86399af2">
+      <part-name />
+    </score-part>
+    <score-part id="P5f75bf507b1794ca9465fb91d69ec0d5">
+      <part-name />
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P2b239e460d013627e2797376621b319e">
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="Pca5bf82d99c183ce8f0fbc9ece3aaa2d">
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P3007bc0c090eaf97ecc2830f86399af2">
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P5f75bf507b1794ca9465fb91d69ec0d5">
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4">
+      <attributes>
+        <divisions>10080</divisions>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

@@ -1,0 +1,1275 @@
+{
+  "riem": 92,
+  "bwv": "168.6",
+  "tempo_qpm": 80,
+  "time_signature": "4/4",
+  "total_duration_beats": 44.0,
+  "parts": [
+    {
+      "name": "Soprano",
+      "index": 0,
+      "notes": [
+        {
+          "time": 0.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": null
+        },
+        {
+          "time": 1.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 2.0,
+          "pitch": 70,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 3.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 4.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 5.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 6.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 7.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 8.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 9.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 10.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 11.0,
+          "pitch": 78,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 12.0,
+          "pitch": 76,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 13.0,
+          "pitch": 74,
+          "duration": 2.0,
+          "measure": 4
+        },
+        {
+          "time": 15.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 16.0,
+          "pitch": 78,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 17.0,
+          "pitch": 76,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 18.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 19.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 20.0,
+          "pitch": 76,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 21.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 22.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 23.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 24.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 25.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 26.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 27.0,
+          "pitch": 69,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 27.5,
+          "pitch": 68,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 28.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 28.5,
+          "pitch": 68,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 29.0,
+          "pitch": 69,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 30.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 31.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 32.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 33.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 34.0,
+          "pitch": 76,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 35.0,
+          "pitch": 78,
+          "duration": 1.5,
+          "measure": 9
+        },
+        {
+          "time": 36.5,
+          "pitch": 76,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 37.0,
+          "pitch": 74,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 38.0,
+          "pitch": 76,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 38.5,
+          "pitch": 74,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 39.0,
+          "pitch": 73,
+          "duration": 2.0,
+          "measure": 10
+        },
+        {
+          "time": 41.0,
+          "pitch": 71,
+          "duration": 3.0,
+          "measure": 11
+        }
+      ]
+    },
+    {
+      "name": "Alto",
+      "index": 1,
+      "notes": [
+        {
+          "time": 0.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": null
+        },
+        {
+          "time": 1.0,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 1.5,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 2.0,
+          "pitch": 67,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 3.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 4.0,
+          "pitch": 67,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 5.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 6.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 6.5,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 7.0,
+          "pitch": 62,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 8.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 9.0,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 9.5,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 10.0,
+          "pitch": 67,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 11.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 12.0,
+          "pitch": 73,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 13.0,
+          "pitch": 73,
+          "duration": 0.5,
+          "measure": 4
+        },
+        {
+          "time": 13.5,
+          "pitch": 70,
+          "duration": 0.5,
+          "measure": 4
+        },
+        {
+          "time": 14.0,
+          "pitch": 71,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 15.0,
+          "pitch": 70,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 16.0,
+          "pitch": 69,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 17.0,
+          "pitch": 69,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 17.5,
+          "pitch": 68,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 18.0,
+          "pitch": 69,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 18.5,
+          "pitch": 71,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 19.0,
+          "pitch": 69,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 20.0,
+          "pitch": 67,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 20.5,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 21.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 22.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 23.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 24.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 24.5,
+          "pitch": 68,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 25.0,
+          "pitch": 69,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 26.0,
+          "pitch": 68,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 27.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 28.0,
+          "pitch": 61,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 29.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 30.0,
+          "pitch": 68,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 31.0,
+          "pitch": 69,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 32.0,
+          "pitch": 69,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 32.5,
+          "pitch": 67,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 33.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 33.5,
+          "pitch": 71,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 34.0,
+          "pitch": 69,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 34.5,
+          "pitch": 67,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 35.0,
+          "pitch": 66,
+          "duration": 2.0,
+          "measure": 9
+        },
+        {
+          "time": 37.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 38.0,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 38.5,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 39.0,
+          "pitch": 67,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 40.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 40.5,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 41.0,
+          "pitch": 63,
+          "duration": 3.0,
+          "measure": 11
+        }
+      ]
+    },
+    {
+      "name": "Tenor",
+      "index": 2,
+      "notes": [
+        {
+          "time": 0.0,
+          "pitch": 62,
+          "duration": 1.0,
+          "measure": null
+        },
+        {
+          "time": 1.0,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 1.5,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 2.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 3.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 3.5,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 4.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 4.5,
+          "pitch": 58,
+          "duration": 0.5,
+          "measure": 1
+        },
+        {
+          "time": 5.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 5.5,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 6.0,
+          "pitch": 58,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 7.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 8.0,
+          "pitch": 56,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 9.0,
+          "pitch": 57,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 10.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 11.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 11.5,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 12.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 13.0,
+          "pitch": 66,
+          "duration": 1.5,
+          "measure": 4
+        },
+        {
+          "time": 14.5,
+          "pitch": 65,
+          "duration": 0.5,
+          "measure": 4
+        },
+        {
+          "time": 15.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 16.0,
+          "pitch": 66,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 17.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 18.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 18.5,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 19.0,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 19.5,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 20.0,
+          "pitch": 61,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 21.0,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 21.5,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 22.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 22.5,
+          "pitch": 58,
+          "duration": 0.5,
+          "measure": 6
+        },
+        {
+          "time": 23.0,
+          "pitch": 62,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 24.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 25.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 7
+        },
+        {
+          "time": 26.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 26.5,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 27.0,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 27.5,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 28.0,
+          "pitch": 57,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 28.5,
+          "pitch": 56,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 29.0,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 29.5,
+          "pitch": 57,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 30.0,
+          "pitch": 62,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 31.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 32.0,
+          "pitch": 64,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 33.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 33.5,
+          "pitch": 67,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 34.0,
+          "pitch": 66,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 34.5,
+          "pitch": 64,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 35.0,
+          "pitch": 62,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 36.0,
+          "pitch": 61,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 37.0,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 37.5,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 38.0,
+          "pitch": 59,
+          "duration": 2.0,
+          "measure": 10
+        },
+        {
+          "time": 40.0,
+          "pitch": 58,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 41.0,
+          "pitch": 54,
+          "duration": 3.0,
+          "measure": 11
+        }
+      ]
+    },
+    {
+      "name": "Bass",
+      "index": 3,
+      "notes": [
+        {
+          "time": 0.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": null
+        },
+        {
+          "time": 1.0,
+          "pitch": 61,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 2.0,
+          "pitch": 49,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 3.0,
+          "pitch": 50,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 4.0,
+          "pitch": 52,
+          "duration": 1.0,
+          "measure": 1
+        },
+        {
+          "time": 5.0,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 5.5,
+          "pitch": 52,
+          "duration": 0.5,
+          "measure": 2
+        },
+        {
+          "time": 6.0,
+          "pitch": 54,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 7.0,
+          "pitch": 47,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 8.0,
+          "pitch": 52,
+          "duration": 1.0,
+          "measure": 2
+        },
+        {
+          "time": 9.0,
+          "pitch": 45,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 10.0,
+          "pitch": 57,
+          "duration": 1.0,
+          "measure": 3
+        },
+        {
+          "time": 11.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 11.5,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 12.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 12.5,
+          "pitch": 58,
+          "duration": 0.5,
+          "measure": 3
+        },
+        {
+          "time": 13.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 14.0,
+          "pitch": 47,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 15.0,
+          "pitch": 54,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 16.0,
+          "pitch": 50,
+          "duration": 1.0,
+          "measure": 4
+        },
+        {
+          "time": 17.0,
+          "pitch": 52,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 18.0,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 18.5,
+          "pitch": 56,
+          "duration": 0.5,
+          "measure": 5
+        },
+        {
+          "time": 19.0,
+          "pitch": 57,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 20.0,
+          "pitch": 58,
+          "duration": 1.0,
+          "measure": 5
+        },
+        {
+          "time": 21.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 22.0,
+          "pitch": 54,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 23.0,
+          "pitch": 47,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 24.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 6
+        },
+        {
+          "time": 25.0,
+          "pitch": 57,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 25.5,
+          "pitch": 56,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 26.0,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 26.5,
+          "pitch": 53,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 27.0,
+          "pitch": 54,
+          "duration": 1.5,
+          "measure": 7
+        },
+        {
+          "time": 28.5,
+          "pitch": 52,
+          "duration": 0.5,
+          "measure": 7
+        },
+        {
+          "time": 29.0,
+          "pitch": 50,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 29.5,
+          "pitch": 49,
+          "duration": 0.5,
+          "measure": 8
+        },
+        {
+          "time": 30.0,
+          "pitch": 47,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 31.0,
+          "pitch": 45,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 32.0,
+          "pitch": 57,
+          "duration": 1.0,
+          "measure": 8
+        },
+        {
+          "time": 33.0,
+          "pitch": 59,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 34.0,
+          "pitch": 61,
+          "duration": 1.0,
+          "measure": 9
+        },
+        {
+          "time": 35.0,
+          "pitch": 62,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 35.5,
+          "pitch": 61,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 36.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 36.5,
+          "pitch": 58,
+          "duration": 0.5,
+          "measure": 9
+        },
+        {
+          "time": 37.0,
+          "pitch": 59,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 37.5,
+          "pitch": 57,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 38.0,
+          "pitch": 55,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 38.5,
+          "pitch": 54,
+          "duration": 0.5,
+          "measure": 10
+        },
+        {
+          "time": 39.0,
+          "pitch": 52,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 40.0,
+          "pitch": 54,
+          "duration": 1.0,
+          "measure": 10
+        },
+        {
+          "time": 41.0,
+          "pitch": 47,
+          "duration": 3.0,
+          "measure": 11
+        }
+      ]
+    }
+  ]
+}

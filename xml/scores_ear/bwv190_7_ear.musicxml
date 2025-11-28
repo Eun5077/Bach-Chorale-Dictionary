@@ -1,0 +1,2041 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="3.1">
+  <work><work-title>327. Jesu, nun sei gepreiset</work-title></work><movement-title>327. Jesu, nun sei gepreiset [Ear Blank]</movement-title>
+  <identification>
+    <creator type="composer" />
+    <encoding>
+      <encoding-date>2025-11-24</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>Finale for Macintosh</software>
+      <software>Dolet Light for Finale 2006</software>
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>7</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+  </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Trumpet 1</part-name>
+      <part-abbreviation>Tr 1</part-abbreviation>
+      <score-instrument id="I4ef9f87f835917f3148bfe8c81950da8">
+        <instrument-name>Instrument 6</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Trumpet 2</part-name>
+      <part-abbreviation>Tr 2</part-abbreviation>
+      <score-instrument id="Ia44f79a93a857fc96411b7ec16e70297">
+        <instrument-name>Instrument 6</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P3">
+      <part-name>Trumpet 3</part-name>
+      <part-abbreviation>Tr 3</part-abbreviation>
+      <score-instrument id="I55c31bdfa2c04b7fca575c04078e2be6">
+        <instrument-name>Instrument 6</instrument-name>
+      </score-instrument>
+    </score-part>
+    <part-group number="1" type="start">
+      <group-symbol>brace</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P4">
+      <part-name>Timpani</part-name>
+      <part-abbreviation>Timp</part-abbreviation>
+      <score-instrument id="I45a99a1bfa858a63ab1d781d34758467">
+        <instrument-name>Instrument 5</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P5">
+      <part-name>Oboe 1</part-name>
+      <part-abbreviation>Ob 1</part-abbreviation>
+      <score-instrument id="I021cd29a1fb8ad1200310caa602a951b">
+        <instrument-name>Instrument 7</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P6">
+      <part-name>Oboe 2</part-name>
+      <part-abbreviation>Ob 2</part-abbreviation>
+      <score-instrument id="I97d8f0eb18f3895c0aa46b7331b3a124">
+        <instrument-name>Instrument 7</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P7">
+      <part-name>Oboe 3</part-name>
+      <part-abbreviation>Ob 3</part-abbreviation>
+      <score-instrument id="Ib92da94ad4bfce05c6edeb5495879103">
+        <instrument-name>Instrument 7</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P8">
+      <part-name>Violin 1</part-name>
+      <part-abbreviation>Vn 1</part-abbreviation>
+      <score-instrument id="I5c3a0da0619fa1dcd657a5bf1a13055e">
+        <instrument-name>Instrument 8</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P9">
+      <part-name>Violin 2</part-name>
+      <part-abbreviation>Vn 2</part-abbreviation>
+      <score-instrument id="I7244aba8c18f17aca29646bf827b203f">
+        <instrument-name>Instrument 8</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P10">
+      <part-name>Viola</part-name>
+      <part-abbreviation>Vla</part-abbreviation>
+      <score-instrument id="I94db10083bd3b28e89fe7ac275acc401">
+        <instrument-name>Instrument 8</instrument-name>
+      </score-instrument>
+    </score-part>
+    <part-group number="2" type="start">
+      <group-symbol>bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P11">
+      <part-name>Soprano</part-name>
+      <part-abbreviation>S.</part-abbreviation>
+      <score-instrument id="I7f29db3d2c3a1abaae366cff5f60e71a">
+        <instrument-name>Instrument 1</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P12">
+      <part-name>Alto</part-name>
+      <part-abbreviation>A.</part-abbreviation>
+      <score-instrument id="Ib27b7c13da3783a529f76aa6794f97a7">
+        <instrument-name>Instrument 2</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P13">
+      <part-name>Tenor</part-name>
+      <part-abbreviation>T.</part-abbreviation>
+      <score-instrument id="I17abb6c2bf4a396ee7fb985fd47985ca">
+        <instrument-name>Instrument 3</instrument-name>
+      </score-instrument>
+    </score-part>
+    <score-part id="P14">
+      <part-name>Bass</part-name>
+      <part-abbreviation>B.</part-abbreviation>
+      <score-instrument id="I880acc3ae790c36ecf25eeacaae45fba">
+        <instrument-name>Instrument 4</instrument-name>
+      </score-instrument>
+    </score-part>
+    <part-group number="2" type="stop" />
+    <score-part id="P15">
+      <part-name>Continuo</part-name>
+      <part-abbreviation>Cont</part-abbreviation>
+      <score-instrument id="I5763d9f621a35b5cd3f4db4d8d09bc5a">
+        <instrument-name>Instrument 4</instrument-name>
+      </score-instrument>
+    </score-part>
+    <part-group number="1" type="stop" />
+  </part-list>
+  
+  <part id="P1">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P2">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P3">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P4">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P5">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P6">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P7">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P8">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P9">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P10">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>C</sign>
+          <line>3</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P11">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P12">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P13">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P14">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  
+  <part id="P15">
+    
+    <measure number="0">
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+          <mode>major</mode>
+        </key>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      </measure>
+    
+    <measure number="1">
+      </measure>
+    
+    <measure number="2">
+      </measure>
+    
+    <measure number="3">
+      </measure>
+    
+    <measure number="4">
+      </measure>
+    
+    <measure number="5">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="6">
+      </measure>
+    
+    <measure number="7">
+      </measure>
+    
+    <measure number="8">
+      </measure>
+    
+    <measure number="9">
+      </measure>
+    
+    <measure number="10">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="11">
+      </measure>
+    
+    <measure number="12">
+      </measure>
+    
+    <measure number="13">
+      </measure>
+    
+    <measure number="14">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="15">
+      </measure>
+    
+    <measure number="16">
+      </measure>
+    
+    <measure number="17">
+      </measure>
+    
+    <measure number="18">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="19">
+      </measure>
+    
+    <measure number="20">
+      </measure>
+    
+    <measure number="21">
+      </measure>
+    
+    <measure number="22">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="23">
+      </measure>
+    
+    <measure number="24">
+      </measure>
+    
+    <measure number="25">
+      </measure>
+    
+    <measure number="26">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="27">
+      </measure>
+    
+    <measure number="28">
+      </measure>
+    
+    <measure number="29">
+      </measure>
+    
+    <measure number="30">
+      <print new-page="yes" />
+      </measure>
+    
+    <measure number="31">
+      </measure>
+    
+    <measure number="32">
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

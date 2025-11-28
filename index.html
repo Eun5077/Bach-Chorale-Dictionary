@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bach Chorale Dictionary</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/tone@14.7.77/build/Tone.js"></script>
+  <script src="https://unpkg.com/opensheetmusicdisplay@1.8.0/build/opensheetmusicdisplay.min.js"></script>
+</head>
+
+<body>
+  <aside class="sidebar-nav">
+    <nav>
+      <button data-page="home" class="nav-btn">Home</button>
+      <button data-page="chorale" class="nav-btn">Chorale Dictionary</button>
+      <button data-page="cadence" class="nav-btn">Cadence Dictionary</button>
+      <button data-page="soprano" class="nav-btn">Phrase Dictionary</button>
+      <button data-page="ear" class="nav-btn">Chorale Ear Training</button>
+      <button data-page="harmony" class="nav-btn">Figured Bass</button>
+    </nav>
+  </aside>
+
+  <main class="content">
+    <section id="home-page" class="page active">
+      <h1 class="home-main-title">Bach Chorale Dictionary</h1>
+      <p class="page-sub">A platform for study, analysis, and practice of Bach chorales.</p>
+      <h2 class="page-title">Tools</h2>
+
+      <div class="card-grid">
+        <div class="card" data-page="chorale">
+          <h3>Chorale Dictionary</h3>
+          <p>Search chorales by index, title, key, and melody.</p>
+        </div>
+
+        <div class="card" data-page="cadence">
+          <h3>Cadence Dictionary</h3>
+          <p>Compare cadences by type, key, and melodic pattern.</p>
+        </div>
+
+        <div class="card" data-page="soprano">
+          <h3>Phrase Dictionary</h3>
+          <p>View phrases grouped by identical soprano melodies.</p>
+        </div>
+
+        <div class="card" data-page="ear">
+          <h3>Chorale Ear Training</h3>
+          <p>Practice four–part dictation.</p>
+        </div>
+
+        <div class="card" data-page="harmony">
+          <h3>Figured Bass</h3>
+          <p>Practice harmonic realization with figured bass.</p>
+        </div>
+      </div>
+
+      <footer class="home-credits">
+        <h2>Sources & Credits</h2>
+        <p>Chorale data sourced from <code>music21.corpus.chorales</code>.</p>
+        <p>Scores are rendered with OpenSheetMusicDisplay.</p>
+        <p>Audio playback is generated using Tone.js.</p>
+        <p>This site is a personal research and study tool built with HTML, CSS, JavaScript, and Python.</p>
+      </footer>
+    </section>
+
+    <section id="chorale-page" class="page">
+      <h1 class="page-title">Chorale Dictionary</h1>
+
+      <div class="main-layout">
+        <section class="left-pane">
+          <section class="search-panel">
+            <h2>Search</h2>
+
+            <div class="field">
+              <label>Chorale Number(Riemenschneider)</label>
+              <input id="search-number" type="number" placeholder="e.g. 1" />
+            </div>
+
+            <div class="field">
+              <label>Title</label>
+              <input id="search-title" type="text" placeholder="e.g. Aus meines Herzens Grunde" />
+            </div>
+
+            <div class="field">
+              <label>Key</label>
+              <select id="filter-key">
+                <option value="">All</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Time Signature</label>
+              <select id="filter-meter">
+                <option value="">All</option>
+              </select>
+            </div>
+
+            <h3 class="section-small-title">Melody Search</h3>
+
+            <div id="melody-display" class="melody-display">(No melody entered)</div>
+
+            <div class="field">
+              <label>Match mode</label>
+              <select id="melody-match-mode">
+                <option value="absolute">Absolute</option>
+                <option value="relative">Relative</option>
+              </select>
+            </div>
+
+            <div class="melody-row">
+              <label>
+                Note Duration
+                <select id="melody-duration">
+                  <option value="0.25">16th</option>
+                  <option value="0.5">8th</option>
+                  <option value="1.0">quarter</option>
+                  <option value="2.0">half</option>
+                  <option value="4.0">whole</option>
+                </select>
+              </label>
+
+              <label>
+                Pitch
+                <select id="melody-pitch">
+                  <option value="C">C</option>
+                  <option value="C#">C#/Db</option>
+                  <option value="D">D</option>
+                  <option value="D#">D#/Eb</option>
+                  <option value="E">E</option>
+                  <option value="F">F</option>
+                  <option value="F#">F#/Gb</option>
+                  <option value="G">G</option>
+                  <option value="G#">G#/Ab</option>
+                  <option value="A">A</option>
+                  <option value="A#">A#/Bb</option>
+                  <option value="B">B</option>
+                </select>
+              </label>
+
+              <button id="btn-melody-add">Add</button>
+              <button id="btn-melody-clear">Clear</button>
+            </div>
+
+            <button id="btn-melody-search" class="btn-primary">Search Melody</button>
+          </section>
+
+          <section class="list-panel">
+            <h2>Chorales</h2>
+            <ul id="chorale-list"></ul>
+          </section>
+        </section>
+
+        <section class="right-pane">
+          <div id="chorale-detail" class="detail-box">Select a chorale from the list.</div>
+
+          <div id="audio-controls" class="detail-box audio-box">
+            <div class="audio-header">
+              <h3>Audio Playback</h3>
+              <div class="audio-buttons">
+                <button id="btn-play">Play</button>
+                <button id="btn-stop">Stop</button>
+              </div>
+            </div>
+            <div class="voice-group">
+              <label><input type="checkbox" class="voice-check" data-index="0" checked> Soprano</label>
+              <label><input type="checkbox" class="voice-check" data-index="1" checked> Alto</label>
+              <label><input type="checkbox" class="voice-check" data-index="2" checked> Tenor</label>
+              <label><input type="checkbox" class="voice-check" data-index="3" checked> Bass</label>
+            </div>
+          </div>
+
+          <div id="score-container" class="detail-box"></div>
+        </section>
+      </div>
+    </section>
+
+
+    <section id="cadence-page" class="page">
+      <h1 class="page-title">Cadence Dictionary</h1>
+
+      <div class="main-layout">
+        <section class="left-pane">
+          <section class="search-panel">
+            <h2>Melody Search</h2>
+
+            <div class="field">
+              <label for="cadence-voice-select">Voice</label>
+              <select id="cadence-voice-select">
+                <option value="soprano">Soprano</option>
+                <option value="alto">Alto</option>
+                <option value="tenor">Tenor</option>
+                <option value="bass">Bass</option>
+              </select>
+            </div>
+
+            <div id="cadence-melody-display" class="melody-display">(No melody entered)</div>
+
+            <div class="field">
+              <label>Match mode</label>
+              <select id="cadence-melody-match-mode">
+                <option value="absolute" selected>Absolute</option>
+                <option value="relative">Relative</option>
+              </select>
+            </div>
+
+            <div class="melody-row">
+              <label>
+                Note Duration
+                <select id="cadence-melody-duration">
+                  <option value="0.25">16th</option>
+                  <option value="0.5">8th</option>
+                  <option value="1.0">quarter</option>
+                  <option value="2.0">half</option>
+                  <option value="4.0">whole</option>
+                </select>
+              </label>
+
+              <label>
+                Pitch
+                <select id="cadence-melody-pitch">
+                  <option value="C">C</option>
+                  <option value="C#">C#/Db</option>
+                  <option value="D">D</option>
+                  <option value="D#">D#/Eb</option>
+                  <option value="E">E</option>
+                  <option value="F">F</option>
+                  <option value="F#">F#/Gb</option>
+                  <option value="G">G</option>
+                  <option value="G#">G#/Ab</option>
+                  <option value="A">A</option>
+                  <option value="A#">A#/Bb</option>
+                  <option value="B">B</option>
+                </select>
+              </label>
+
+              <button id="cadence-melody-add">Add</button>
+              <button id="cadence-melody-clear">Clear</button>
+            </div>
+
+            <button id="cadence-melody-search" class="btn-primary">Search Cadence Melody</button>
+          </section>
+
+          <section class="search-panel">
+            <h2>Filters &amp; Sort</h2>
+
+            <div class="field">
+              <label for="cadence-key-mode">Key mode</label>
+              <select id="cadence-key-mode">
+                <option value="">All</option>
+                <option value="major">Major</option>
+                <option value="minor">Minor</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="cadence-key-root">Key root</label>
+              <select id="cadence-key-root">
+                <option value="">All</option>
+                <option value="C">C</option>
+                <option value="C#">C# / Db</option>
+                <option value="D">D</option>
+                <option value="D#">D# / Eb</option>
+                <option value="E">E</option>
+                <option value="F">F</option>
+                <option value="F#">F# / Gb</option>
+                <option value="G">G</option>
+                <option value="G#">G# / Ab</option>
+                <option value="A">A</option>
+                <option value="A#">A# / Bb</option>
+                <option value="B">B</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="cadence-filter-type">Cadence type</label>
+              <select id="cadence-filter-type">
+                <option value="">All</option>
+                <option value="authentic">authentic</option>
+                <option value="plagal/half">plagal/half</option>
+                <option value="deceptive">deceptive</option>
+                <option value="phrygian">phrygian</option>
+                <option value="other">other</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="cadence-filter-final-role">Final soprano</label>
+              <select id="cadence-filter-final-role">
+                <option value="">All</option>
+                <option value="root">1 (root)</option>
+                <option value="third">3 (third)</option>
+                <option value="fifth">5 (fifth)</option>
+                <option value="other">other</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="cadence-sort-by">Sort by</label>
+              <select id="cadence-sort-by">
+                <option value="default">Default (Riem / ID)</option>
+                <option value="final-soprano">Final soprano (1–3–5–other)</option>
+                <option value="cadence-type">Cadence type</option>
+                <option value="soprano-line">Soprano line</option>
+                <option value="bass-line">Bass line</option>
+              </select>
+            </div>
+          </section>
+
+          <section class="list-panel cadence-list-panel">
+            <h2>Cadence Groups</h2>
+            <ul id="cadence-group-list"></ul>
+          </section>
+        </section>
+
+        <section class="right-pane">
+          <div id="cadence-detail" class="detail-box">Select a cadence group from the list.</div>
+
+          <div class="score-toolbar">
+            <button id="cadence-toggle-full" class="btn-primary">Show Full Chorale</button>
+          </div>
+
+          <div id="cadence-score-container" class="detail-box"></div>
+        </section>
+      </div>
+    </section>
+
+
+    <section id="soprano-page" class="page">
+      <h1 class="page-title">Phrase Dictionary</h1>
+
+      <div class="main-layout">
+        <section class="left-pane">
+          <section class="search-panel">
+            <h2>Search</h2>
+
+            <div class="field">
+              <label>Chorale Number(Riemenschneider)</label>
+              <input id="soprano-search-number" type="number" placeholder="e.g. 100" />
+            </div>
+
+            <div class="field">
+              <label>Title</label>
+              <input id="soprano-search-title" type="text" placeholder="e.g. Jesu meine Freude" />
+            </div>
+          </section>
+
+          <section class="list-panel soprano-list-panel">
+            <h2>Phrase Groups</h2>
+            <ul id="soprano-group-list"></ul>
+          </section>
+        </section>
+
+        <section class="right-pane">
+          <div id="soprano-detail" class="detail-box">Select a phrase group from the list.</div>
+
+          <div class="score-toolbar">
+            <button id="soprano-toggle-full" class="btn-primary">Show Full Chorale</button>
+          </div>
+
+          <div id="soprano-score-container" class="detail-box"></div>
+        </section>
+      </div>
+    </section>
+
+
+    <section id="ear-page" class="page">
+      <h1 class="page-title">Chorale Ear Training</h1>
+
+      <div class="main-layout">
+        <section class="left-pane">
+          <section class="list-panel">
+            <h2>Chorales</h2>
+            <ul id="chorale-list"></ul>
+          </section>
+        </section>
+
+        <section class="right-pane">
+          <div id="chorale-detail" class="detail-box">Select a chorale from the list.</div>
+
+          <div id="audio-controls" class="detail-box audio-box">
+            <div class="audio-header">
+              <h3>Audio Playback</h3>
+              <div class="audio-buttons">
+                <button id="ear-btn-play">Play</button>
+                <button id="ear-btn-stop">Stop</button>
+              </div>
+            </div>
+            <div class="voice-group">
+              <label><input type="checkbox" class="voice-check" data-index="0" checked> Soprano</label>
+              <label><input type="checkbox" class="voice-check" data-index="1" checked> Alto</label>
+              <label><input type="checkbox" class="voice-check" data-index="2" checked> Tenor</label>
+              <label><input type="checkbox" class="voice-check" data-index="3" checked> Bass</label>
+            </div>
+          </div>
+
+          <div class="score-toolbar">
+            <button id="ear-toggle-answer" class="btn-primary">Show Answer</button>
+          </div>
+
+          <div id="score-container" class="detail-box"></div>
+        </section>
+      </div>
+    </section>
+
+
+    <section id="harmony-page" class="page">
+      <h1 class="page-title">Figured Bass</h1>
+
+      <div class="main-layout">
+        <section class="left-pane">
+          <section class="list-panel">
+            <h2>Chorales</h2>
+            <ul id="harmony-chorale-list"></ul>
+          </section>
+        </section>
+
+        <section class="right-pane">
+          <div id="harmony-detail" class="detail-box">Select a chorale from the list.</div>
+
+          <div id="harmony-audio-controls" class="detail-box audio-box">
+            <div class="audio-header">
+              <h3>Audio Playback</h3>
+              <div class="audio-buttons">
+                <button id="harmony-btn-play">Play</button>
+                <button id="harmony-btn-stop">Stop</button>
+              </div>
+            </div>
+            <div class="voice-group">
+              <label><input type="checkbox" class="voice-check" data-index="0" checked> Soprano</label>
+              <label><input type="checkbox" class="voice-check" data-index="1" checked> Alto</label>
+              <label><input type="checkbox" class="voice-check" data-index="2" checked> Tenor</label>
+              <label><input type="checkbox" class="voice-check" data-index="3" checked> Bass</label>
+            </div>
+          </div>
+
+          <div class="score-toolbar">
+            <button id="harmony-toggle-answer" class="btn-primary">Show Answer</button>
+          </div>
+
+          <div id="harmony-score-container" class="detail-box"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/main.js"></script>
+  <script src="js/chorale.js"></script>
+  <script src="js/cadence.js"></script>
+  <script src="js/soprano.js"></script>
+  <script src="js/ear.js"></script>
+  <script src="js/harmony.js"></script>
+  <script src="js/audio.js"></script>
+</body>
+</html>
