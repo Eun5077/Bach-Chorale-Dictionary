@@ -87,7 +87,7 @@ async function loadAudioForChorale(ch) {
   if (!ch || !ch.bwv) return;
 
   const bwvStr = ch.bwv.toString().replace(".", "_");
-  const url = `../data/audio_notes/bwv${bwvStr}.json`;
+  const url = `./data/audio_notes/bwv${bwvStr}.json`;
 
   try {
     const res = await fetch(url);
