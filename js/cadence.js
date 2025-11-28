@@ -84,7 +84,7 @@ window.initCadencePage = function () {
   async function loadCadences() {
     try {
       console.log("[Cadence] loading cadences_meta.json...");
-      const res = await fetch("../data/cadences_meta.json");
+      const res = await fetch("./data/cadences_meta.json");
       if (!res.ok) {
         detailEl.innerHTML = "<p>Error loading cadences (fetch failed)</p>";
         return;
