@@ -39,7 +39,7 @@ function noteNameToMidi(name) {
 
 async function loadChorales() {
   try {
-    const res = await fetch("../data/chorales_meta.json");
+    const res = await fetch("./data/chorales_meta.json");
     allChorales = await res.json();
 
     allChorales.sort(
@@ -57,7 +57,7 @@ async function loadChorales() {
 
 async function loadMelodyIndex() {
   try {
-    const res = await fetch("../data/melody_index.json");
+    const res = await fetch("./data/melody_index.json");
     melodyIndex = await res.json();
     console.log("melodyIndex loaded:", melodyIndex.length);
   } catch (e) {
