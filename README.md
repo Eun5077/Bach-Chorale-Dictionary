@@ -5,13 +5,11 @@ This site provides structured access to chorale metadata, score rendering, audio
 Chorale data is sourced from music21.corpus.chorales.
 
 ## Purpose
-The goal of this project is to offer anenvironment for learning Bach chorales:
+The goal of this project is to offer an environment for learning Bach chorales:
 
 - To explore chorales with searchable metadata
 
 - To study cadences and phrase patterns
-
-- To analyze soprano-melody relationships
 
 - To practice ear training and keyboard harmony
 
