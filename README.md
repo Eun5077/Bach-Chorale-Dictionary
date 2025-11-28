@@ -1,4 +1,4 @@
-### Bach Chorale Dictionary
+# Bach Chorale Dictionary
 Bach Chorale Dictionary is a web-based platform for studying, analyzing, and practicing J.S. Bach’s four-part chorales.
 
 This site provides structured access to chorale metadata, score rendering, audio playback, melodic search, cadence classification, soprano-phrase grouping, keyboard harmony practice, and ear-training exercises.
