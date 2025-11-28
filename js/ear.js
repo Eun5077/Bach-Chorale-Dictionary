@@ -47,8 +47,8 @@ window.initEarPage = function () {
   async function loadChorales() {
     try {
       const [choraleRes, pickupRes] = await Promise.all([
-        fetch("/data/chorales_meta.json"),
-        fetch("/data/pickup_beats.json").catch(() => null)
+        fetch("./data/chorales_meta.json"),
+        fetch("./data/pickup_beats.json").catch(() => null)
       ]);
 
       allChorales = await choraleRes.json();
