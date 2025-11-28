@@ -72,7 +72,7 @@ function extractRiemNumberFromTitle(title) {
 
 async function loadSopranoGroups() {
   try {
-    const res  = await fetch("../data/soprano_groups.json");
+    const res  = await fetch("./data/soprano_groups.json");
     const data = await res.json();
 
     let groups = data.groups || [];
