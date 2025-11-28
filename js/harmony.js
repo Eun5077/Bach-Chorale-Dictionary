@@ -38,7 +38,7 @@ window.initHarmonyPage = function () {
 
   async function loadChorales() {
     try {
-      const res = await fetch("../data/chorales_meta.json");
+      const res = await fetch("./data/chorales_meta.json");
       allChorales = await res.json();
       allChorales.sort(
         (a, b) => (a.riemenschneider ?? a.id) - (b.riemenschneider ?? b.id)
